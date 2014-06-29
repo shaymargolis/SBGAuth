@@ -1,7 +1,7 @@
 SBGAuth
 =======
 
-Simple But Good secure for net/http package.
+Secure your Golang `net/http` REST API.
 
 How Does It Works?
 ------------------
